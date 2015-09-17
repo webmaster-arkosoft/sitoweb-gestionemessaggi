@@ -1,0 +1,633 @@
+body{background-color:#fff;font-family:'Open Sans Condensed','Montserrat',sans-serif,Arial,Time new Roman,Verdana;font-size:15px;font-size:14px\0/;border:0;margin:0;}
+a{text-decoration:none;color:#000;border:0;}
+a:hover{text-decoration:none;color:#fff;border:0;}
+h1{font-size:33px;margin:0;}
+h2{font-size:20px;margin:0;}
+h3{font-size:18px;margin:20px 0;}
+h5{font-size:15px;}
+a img{text-decoration:none;border:none;}
+.mex1 button:hover{background-color:#E73333;}
+.acquista button:hover{background-color:#E73333;}
+.aggiungi button:hover{background-color:#E73333;}
+.style-bottom button:hover{background-color:#DE9643;}
+.aggiungi-tab button:hover{background-color:#DE9643;}
+.aggiungi-tab-rosso button:hover{background-color:#E73333;}
+.botton-guida .bottone:hover{text-decoration:none;background-color:#E73333;}
+.box-footer-center .bottone:hover{background-color:#E73333;}
+.spazio-vuoto{width:100%;height:130px;float:left;margin-top:-100px;}
+.menu-header{
+	width:100%;
+	max-width:1024px;
+	margin:0 auto;
+}
+.mex1{
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	overflow:hidden;
+	position:absolute;
+}
+.img-fondo-mex1{
+	height:100%;
+	width:100%;
+	position:relative;
+	top:0;
+	left:0;
+	overflow:hidden;
+	background:#ffffff url("../images/mappaetablet.jpg") no-repeat center top /cover;
+}
+.mex1 h1{text-align:center;padding-top:130px;color:#f00;}
+.mex1 h2{text-align:center;padding-top:10px;color:#000;}
+a#leadpages-close-button{z-index:1;top:-9px;right:-9px;font-family:sans-serif,Arial,Time new Roman,Verdana;}
+#leadpages-close-button{display:block;font-size:16pt;position:absolute;top:-9pt;right:-9pt;width:18pt;height:18pt;color:#FFF;line-height:20pt;text-align:center;text-decoration:none;vertical-align:baseline;cursor:pointer;background:none repeat scroll 0 0 #000;border:2pt solid #FFF;border-radius:18pt;}
+.box-centro{height:150px;}
+.dowload{width:150px;height:250px;background-color:#fff;margin-left:60px!important;float:left;}
+.dowload img{width:100%;}
+.promozione{width:500px;height:110px;margin:0 35px;float:left;}
+.promozione p{font-family:'Montserrat',sans-serif,Arial,Time new Roman,Verdana;font-size:20px;padding:0!important;}
+.promozione input{width:90%;margin:25px 20px;background-color:#fff;}
+.mex1 .bottone{
+	width: 200px;
+	height: 55px;
+	background-color: #f33131;
+	border: 2px solid #c80707;
+	border-radius: 10px;
+	color: #ffff;
+	float: left;
+	font-family: "Open Sans Condensed",sans-serif,Arial,Time new Roman,Verdana;
+	font-size: 20px;
+	left: 15%;
+	top: 45%;
+	position: relative;
+	cursor:pointer;
+}
+.button{
+	width:500px;
+	height:65px;
+	float:left;
+	text-align:center;
+}
+.mex1 .bottone p{margin:15px 25px;font-size:16px;text-align:center;}
+.privacy{height:30px;width:500px;padding:0!important;margin-top:5px!important;float:left;}
+.privacy p{font-size:15px;font-family:Arial,Time new Roman,Verdana;padding:0!important;margin:0!important;}
+.style-bottom{
+	width:50%;
+	height:100%;
+	top:0px;
+	right:0px;
+	float:right;
+	position:relative;
+}
+.bottone-acquista{
+	width: 200px;
+	height: 55px;
+	background-color:#F29120;
+	border:2px solid #BC670F;
+	border-radius: 10px;
+	color: #ffffff;
+	float: left;
+	font-family: "Open Sans Condensed",sans-serif,Arial,Time new Roman,Verdana;
+	font-size: 20px;
+	left: 35%;
+	top: 45%;
+	position: relative;
+	cursor:pointer;
+}
+.bottone-acquista a:hover{background-color:#DE9643!important;}
+.md-content button{
+	border-bottom:2px solid #ffb403;
+	border-top:0;
+	border-left:0;
+	border-right:0;
+	background:#F2C105;
+	color:#fff;
+	font-size:20px;
+	font-family:'Open Sans Condensed',sans-serif,Arial,Time new Roman,Verdana;
+	cursor:pointer;
+	display:inline-block;
+	margin:0;
+	width:70%;
+	height:50px
+}
+.md-content .button button:hover{
+	background:#ffcb01;
+}
+.body{width:100%;height:auto;background-color:#ffbf2e;float:left;}
+.colore-fondo-body{width:100%;height:auto;}
+.header-body{width:100%;height:70px;font-family:'Montserrat',sans-serif;background-color:#29917e;}
+.img-gm{width:700px;height:70px;margin:0 auto;}
+.img-gm img{width:65px;margin:10px;float:left;}
+.header-body h2{font-size:25px;margin:0;padding:20px;text-align:center;color:#fff;}
+.container-body{width:970px;height:360px;margin:0 auto;background-image:url("../images/body.jpg");background-repeat:no-repeat;}
+.container-body h2{margin-top:50px;}
+.container-body p{font-size:17px;font-weight:bold;}
+.testo-linea{width:970px;height:85px;}
+.h3{float:left;height:50px;}
+.hr{border-bottom:4px solid #f00;height:40px;float:left;padding-left:2px;}
+.hr-vuoto{height:50px;float:left;}
+.container-body p span{color:#f00!important;}
+.box-body{width:100%;height:auto;margin:0 auto;background-color:#fff;float:left;}
+.img-body{width:990px;height:550px;margin:0 auto;background-image:url("../images/body2.png");background-repeat:no-repeat;}
+.contenuto{width:100%;height:390px;background-color:#fff;float:left;}
+.descrizione-contenuto{width:990px;height:320px;margin:0 auto;padding-top:30px;background-image:url("../images/descrizione.jpg");background-repeat:no-repeat;}
+.descrizione-contenuto p{margin-top:0;font-size:18px;color:#000;}
+.clienti{width:100%;height:500px;background-color:#ffbf2e;float:left;}
+.header-clienti{width:100%;height:70px;font-family:'Montserrat',sans-serif;background-color:#29917e;}
+.img-clienti{width:770px;height:70px;margin:0 auto;}
+.img-clienti img{width:52px;margin:10px;float:left;}
+.clienti h2{font-size:25px;margin:0;padding:20px;text-align:center;color:#fff;}
+.contenuto-clienti{width:990px;height:auto;margin:0 auto;}
+.box-foto{width:235px;height:300px;float:left;text-align:center;margin-right:10px;margin-top:15px;}
+.box-foto img{margin:10px;}.box-stelle{width:140px;height:30px;margin:5px auto;}
+.stellap{background-image:url("../images/stellapiena.png");background-repeat:no-repeat;margin-left:3px;height:25px;width:25px;float:left;}
+.stellav{background-image:url("../images/stellavuota.png");background-repeat:no-repeat;margin-left:3px;height:25px;width:25px;float:left;}
+.scarica{width:100%;height:550px;background-color:#ffbf2e;float:left;}
+.header-scarica{width:100%;height:70px;font-family:'Montserrat',sans-serif;background-color:#29917e;}
+.img-scarica{width:880px;height:70px;margin:0 auto;}
+.img-scarica img{width:75px;margin:10px;float:left;}
+.scarica h2{font-size:25px;margin:0;padding:20px;text-align:center;color:#fff;}
+.contenuto-scarica{width:990px;height:425px;margin:0 auto;background-image:url("../images/prova.jpg");background-repeat:no-repeat;}
+.scarica .testo-scarica{width:75%;height:90px;padding-top:10px;}
+.testo-scarica .text{color:#f03d3a;font-weight:bold;}
+.testo-scarica .text2{margin-top:10px;}
+.testo-scarica .text3{padding-top:10px;font-size:20px;color:#f03d3a;font-weight:bold;text-align:center;}
+.testo-scarica p{margin:0;}
+.screenschot{width:75%;height:auto;}
+.box-screenschot{width:100%;height:auto;text-align:center;}
+.box-screenschot img{width:350px;margin-top:0;}
+.testo-screenschot p{margin:0;}
+.screenschot .bottone{width:200px;height:55px;margin-left:0;margin-top:15px;margin-bottom:20px;background-color:#f33131;border:2px solid #c80707;border-radius:10px 10px 10px 10px;float:left;text-align:center;}
+.acquista{width:200px;margin:0 auto;}
+.testo-screenschot{width:100%;height:50px;text-align:center;margin-top:15px;float:left;}
+.licenza{width:100%;height:550px;background-color:#ffbf2e;float:left;}
+.header-licenza{width:100%;height:70px;font-family:'Montserrat',sans-serif;background-color:#29917e;}
+.img-acquista{width:460px;height:70px;margin:0 auto;}
+.img-acquista img{width:52px;margin:10px;float:left;}
+.licenza h2{font-size:25px;margin:0;padding:20px;text-align:center;float:left;color:#fff;}
+.descrizione-licenza{width:990px;height:auto;margin:0 auto;}
+.box-promozione{width:270px;height:70px;margin:-25px auto;}
+.box-promozione img{width:100%;}
+.box-descprezzo{width:470px;height:160px;margin:0 auto;}
+.box-descprezzo .tabella{width:470px;display:table;margin:45px auto;font-size:15px;}
+.box-descprezzo .riga1{clear:both;display:block;display:table-row;width:100%;height:30px;background-color:#d9d9d9;font-family:'Montserrat',sans-serif;}
+.box-descprezzo .riga2{clear:both;display:block;display:table-row;width:100%;height:35px;background-color:#FFF;font-family:'Montserrat',sans-serif;}
+.box-descprezzo .colonna1{float:left;width:60%;display:table-cell;text-align:center;margin-top:7px;font-family:'Montserrat',sans-serif;}
+.box-descprezzo .colonna2{float:left;width:40%;display:table-cell;text-align:center;margin-top:7px;font-family:'Montserrat',sans-serif;}
+.box-descprezzo .colonna3{float:left;width:60%;display:table-cell;margin-top:5px;text-align:right;font-family:'Montserrat',sans-serif;margin-right:2%;}
+.box-descprezzo .colonna3 span{font-size:9px;}
+.box-descprezzo .colonna4{float:left;width:35%;display:table-cell;margin-top:5px;text-align:center;font-family:'Montserrat',sans-serif;}
+.box-descprezzo .colonna4 span{font-size:9px;}
+.box-descprezzo .colonna4 font{color:#f00;}
+.aggiungi{width:205px;margin:0 auto;}
+.aggiungi-bottone{width:200px;height:50px;margin:0 auto;background-color:#F33131;border:2px solid #C80707;border-radius:10px 10px 10px 10px;font-size:18px;font-family:'Open Sans Condensed',sans-serif,Arial,Time new Roman,Verdana;}
+.box-crediti{width:100%;height:auto;background-color:#ffbf2e;float:left;margin-bottom:50px;}
+.header-crediti{width:100%;height:70px;font-family:'Montserrat',sans-serif;background-color:#29917e;margin:0 auto;}
+.img-crediti{width:400px;height:70px;margin:0 auto;}
+.img-crediti img{width:65px;margin:10px;float:left;}
+.header-crediti h2{font-size:25px;margin-top:0;padding:20px;text-align:center;float:left;color:#fff;}
+.descrizione-crediti{width:990px;height:auto;margin:15px auto;}
+.descrizione-pagamento{width:990px;height:auto;margin:15px auto;}
+.descrizione-pagamento p{text-align:left;}
+.tabella{display:table;width:990px;margin:0 auto;font-size:15px;}
+.riga1{clear:both;display:block;display:table-row;width:100%;height:30px;background-color:#d9d9d9;font-family:'Montserrat',sans-serif;}
+.riga1 .colonna{margin-top:8px;}
+.riga2{clear:both;display:block;display:table-row;width:100%;height:45px;background-color:#fff;}
+.riga3{clear:both;display:block;display:table-row;width:100%;height:20px;background-color:#fff;}
+.colonna{float:left;width:25%;display:table-cell;text-align:center;margin-top:20px;font-family:'Montserrat',sans-serif;}
+.colonna span{font-size:10px;}
+.colonna4{float:left;width:24%;display:table-cell;text-align:center;margin-top:5px;font-family:'Montserrat',sans-serif;}
+.colonna4 .bottonerosso{font-size:10px;margin:10px auto;font-family:'Montserrat',sans-serif;}
+.colonna p{margin:0;color:#f00;}
+.aggiungi-tab{width:150px;margin:0 auto;}
+.aggiungi-tab-rosso{width:150px;margin:0 auto;}
+.colonna4 .bottone{width:150px;height:40px;margin:0 auto;background-color:#F29120;border:2px solid #BC670F;border-radius:10px;color:#000;font-family:'Montserrat',sans-serif;font-size:10px;}
+.colonna4 .bottonerosso{width:150px;height:40px;margin:0 auto;background-color:#F33131;border:2px solid #C80707;border-radius:10px;font-family:'Montserrat',sans-serif;font-size:10px;}
+.textfine-crediti{width:970px;height:auto;margin:10px auto;text-align:center;font-size:13px;}
+.header-box{width:990px;height:70px;margin:0 auto;font-family:'Montserrat',sans-serif;}
+.box-guida{width:100%;height:500px;background-color:#ffbf2e;float:left;}
+.header-guida{width:100%;height:70px;font-family:'Montserrat',sans-serif;background-color:#29917e;}
+.header-guida h2{font-size:25px;margin:0;padding:20px;text-align:center;color:#fff;}
+.img-guida{width:239px;height:70px;margin:0 auto;}
+.img-guida img{width:62px;margin:10px;float:left;}
+.contenuto-guida{width:990px;height:410px;margin:0 auto;background-image:url("../images/guida.jpg");background-repeat:no-repeat;font-size:20px;}
+.libreria{width:100%;}
+.libreria img{width:500px;}
+.botton-guida .bottone{width:200px;height:50px;margin:0 auto;background-color:#F33131;border:2px solid #C80707;border-radius:10px 10px 10px 10px;}
+.botton-guida{width:205px;margin:30px 150px;}
+.botton-guida .bottone p{color:#fff!important;margin:12px auto;font-size:18px;text-align:center;}
+.footer{width:100%;height:auto;float:left;background-color:#fff;}
+.footer-container{width:990px;height:300px;margin:10px auto;}
+.box-footer-left{width:22%;height:100%;float:left;text-align:left;margin:0 10px;font-family:'Montserrat',sans-serif;}
+.box-footer-left ul{padding:0;margin:0;list-style:none;font-size:15px;font-family:'Montserrat',sans-serif;}
+.box-footer-left a:hover{color:#f00;}
+.box-footer-center{width:23%;height:100%;float:left;text-align:center;margin:0 10px;font-family:'Montserrat',sans-serif;}input{height:40px;width:215px;background-color:#FFBF2E;font-family:inherit;border:1px solid #000;border-radius:10px;color:#000;font-size:15px;margin:0 0 12px;padding-left:10px;float:right;}
+.box-footer-center .bottone{width:150px;height:40px;margin:0 auto;background-color:#F33131;border:2px solid #C80707;border-radius:10px;float:right;}
+.box-footer-center .bottone p{color:#FFF!important;margin:5px auto;font-size:18px;font-family:'Open Sans Condensed',sans-serif,Arial,Time new Roman,Verdana;text-align:center;}
+.footer-bottom{width:155px;float:right;}
+.text-left{text-align:left;font-size:15px;}
+.box-footer-right{width:23%;height:300px;float:left;text-align:right;margin:0 10px;font-family:'Montserrat',sans-serif;}
+.email{height:25px;margin-top:15px;font-size:16px;margin-bottom:35px;}
+.email a:hover{color:#f00;}
+.info{height:50px;font-size:16px;}
+.info p{margin:0;padding-top:5px;}#logo-azienda img{width:100%;margin-top:25px;}
+
+/* -------------------------------- 
+
+Primary style
+
+-------------------------------- */
+html * {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html, body {
+  /* you need to set this to assign to the main element a min height of 100% */
+  height: 100%;
+}
+
+/*body {
+  font-size: 100%;
+  font-family: "Titillium Web", sans-serif;
+  color: #4e6361;
+  background-color: #f5f4e9;
+}
+
+a {
+  color: #6cac70;
+  text-decoration: none;
+}*/
+
+/* -------------------------------- 
+
+Modules - reusable parts of our design
+
+-------------------------------- */
+.cd-img-replace {
+  /* replace text with a background-image */
+  display: inline-block;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+/* -------------------------------- 
+
+Main components 
+
+-------------------------------- */
+.cd-main-content {
+  /* set a min-height and a z-index to be sure that the main element completely covers the lateral menu */
+  min-height: 100%;
+  position: relative;
+  z-index: 2;
+  padding-top: 74px;
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.4s;
+  -moz-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.cd-main-content.lateral-menu-is-open {
+  /* translate to show the lateral menu - all content needs to be put in the .cd-main-content to translate*/
+  -webkit-transform: translateX(-260px);
+  -moz-transform: translateX(-260px);
+  -ms-transform: translateX(-260px);
+  -o-transform: translateX(-260px);
+  transform: translateX(-260px);
+}
+@media only screen and (max-width: 1000px) {
+  .cd-main-content {
+    padding-top: 70px;
+  }
+}
+
+#header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 75px;
+	width: 100%;
+	margin:0 auto;
+	text-align:center;
+	background:url("../images/header.png");background-repeat:repeat-x;
+	z-index: 3;
+	/* Force Hardware Acceleration in WebKit */
+	-webkit-transform: translateZ(0);
+	-webkit-backface-visibility: hidden;
+	-webkit-transition-property: -webkit-transform;
+	-moz-transition-property: -moz-transform;
+	transition-property: transform;
+	-webkit-transition-duration: 0.4s;
+	-moz-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+#header.lateral-menu-is-open {
+  /* translate to show the lateral menu */
+  -webkit-transform: translateX(-260px);
+  -moz-transform: translateX(-260px);
+  -ms-transform: translateX(-260px);
+  -o-transform: translateX(-260px);
+  transform: translateX(-260px);
+}
+#header.is-fixed {
+  position: fixed;
+}
+
+@media only screen and (max-width: 1000px) {
+  #header {
+    height: 70px;
+  }
+}
+
+#cd-logo {
+	width:145px;
+	height:70px;
+	float:left;
+	margin-top:4px;
+	margin:0 auto;
+	border:0;
+}
+#cd-logo img {
+  display: block;
+}
+@media only screen and (max-width: 1000px) {
+  #cd-logo {
+    margin: 22px 0 0 30px;
+  }
+}
+
+#cd-top-nav {
+	top: 0;
+	right: 0;
+	height:75px;
+	display: block;
+}
+#cd-top-nav ul {
+	height: 30px;
+	padding: 0px;
+	width:42%;
+	margin:30px 0 0 0;
+	list-style:none;
+	float:left;
+	font-size:18px;
+}
+#cd-top-nav li {
+	width:140px;
+	padding-left:30px;
+	text-align:center;
+	float:left;
+}
+/*#cd-top-nav a {
+  display: inline-block;
+  padding: .5em;
+  color: #FFF;
+  text-transform: uppercase;
+  font-weight: 600;
+}*/
+#cd-top-nav a.current {
+  background-color: #242e30;
+}
+.no-touch #cd-top-nav a:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+#cd-menu-trigger {
+	display:none;
+}
+@media only screen and (max-width: 1000px) {
+	#cd-menu-trigger {
+		position: absolute;
+		right: 0;
+		top: 0;
+		height: 100%;
+		width: 110px;
+		padding-left: 1.25em;
+		display:block;
+	}
+	#cd-menu-trigger .cd-menu-text {
+	  height: 100%;
+	  line-height: 70px;
+	  text-transform: uppercase;
+	  color: #FFF;
+	  font-weight: 600;
+	  display: inline-block;
+	}
+	#cd-menu-trigger .cd-menu-icon {
+	  /* this span is the central line in the menu menu */
+	  display: inline-block;
+	  position: absolute;
+	  left: 50%;
+	  top: 50%;
+	  bottom: auto;
+	  right: auto;
+	  -webkit-transform: translateX(-50%) translateY(-50%);
+	  -moz-transform: translateX(-50%) translateY(-50%);
+	  -ms-transform: translateX(-50%) translateY(-50%);
+	  -o-transform: translateX(-50%) translateY(-50%);
+	  transform: translateX(-50%) translateY(-50%);
+	  width: 18px;
+	  height: 2px;
+	  background-color: #FFF;
+	  /* these are the upper and lower lines in the menu menu */
+	}
+	#cd-menu-trigger .cd-menu-icon::before, #cd-menu-trigger .cd-menu-icon:after {
+	  content: '';
+	  width: 100%;
+	  height: 100%;
+	  position: absolute;
+	  background-color: inherit;
+	  left: 0;
+	}
+	#cd-menu-trigger .cd-menu-icon::before {
+	  bottom: 5px;
+	}
+	#cd-menu-trigger .cd-menu-icon::after {
+	  top: 5px;
+	}
+	#cd-menu-trigger.is-clicked .cd-menu-icon {
+	  background-color: rgba(255, 255, 255, 0);
+	}
+	#cd-menu-trigger.is-clicked .cd-menu-icon::before, #cd-menu-trigger.is-clicked .cd-menu-icon::after {
+	  background-color: white;
+	}
+	#cd-menu-trigger.is-clicked .cd-menu-icon::before {
+	  bottom: 0;
+	  -webkit-transform: rotate(45deg);
+	  -moz-transform: rotate(45deg);
+	  -ms-transform: rotate(45deg);
+	  -o-transform: rotate(45deg);
+	  transform: rotate(45deg);
+	}
+	#cd-menu-trigger.is-clicked .cd-menu-icon::after {
+	  top: 0;
+	  -webkit-transform: rotate(-45deg);
+	  -moz-transform: rotate(-45deg);
+	  -ms-transform: rotate(-45deg);
+	  -o-transform: rotate(-45deg);
+	  transform: rotate(-45deg);
+	}
+}
+
+#cd-lateral-nav {
+  position: fixed;
+  height: 100%;
+  right: 0;
+  top: 0;
+  visibility: hidden;
+  /* the secondary navigation is covered by the main element */
+  z-index: 1;
+  width: 260px;
+  background-color: #242e30;
+  overflow-y: auto;
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  -webkit-transition: -webkit-transform .4s 0s, visibility 0s .4s;
+  -moz-transition: -moz-transform .4s 0s, visibility 0s .4s;
+  transition: transform .4s 0s, visibility 0s .4s;
+  /* this creates the subtle slide in animation of the navigation */
+  -webkit-transform: translateX(80px);
+  -moz-transform: translateX(80px);
+  -ms-transform: translateX(80px);
+  -o-transform: translateX(80px);
+  transform: translateX(80px);
+}
+#cd-lateral-nav .cd-navigation {
+  margin: 10px 0 16px;
+}
+#cd-lateral-nav .sub-menu {
+  padding: 0 10px 20px 15px;
+  display: none;
+}
+#cd-lateral-nav a {
+  display: block;
+  line-height: 2em;
+  padding: 0 16px 0 32px;
+  color: #aab5b7;
+}
+#cd-lateral-nav a.current {
+  background-color: #3a4a4d;
+  color: #FFF;
+}
+.no-touch #cd-lateral-nav a:hover {
+  color: #FFF;
+}
+@media only screen and (max-width: 1000px) {
+  #cd-lateral-nav .cd-navigation {
+    margin: 20px 0;
+  }
+}
+#cd-lateral-nav.lateral-menu-is-open {
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  -o-transform: translateX(0);
+  transform: translateX(0);
+  visibility: visible;
+  -webkit-transition: -webkit-transform .4s 0s, visibility 0s 0s;
+  -moz-transition: -moz-transform .4s 0s, visibility 0s 0s;
+  transition: transform .4s 0s, visibility 0s 0s;
+  /* smooth the scrolling on touch devices - webkit browsers */
+  -webkit-overflow-scrolling: touch;
+}
+
+/* style menu items which have a submenu  */
+#cd-lateral-nav .item-has-children > a {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 600;
+  /* this is the right arrow to show that the item has a submenu  */
+}
+#cd-lateral-nav .item-has-children > a::after {
+  content: '';
+  display: block;
+  height: 11px;
+  width: 8px;
+  position: absolute;
+  top: 50%;
+  bottom: auto;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  right: 1em;
+  background: url("../img/cd-arrow.svg") no-repeat center center;
+  background-size: 8px 11px;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+#cd-lateral-nav .item-has-children > a.submenu-open::after {
+  -webkit-transform: translateY(-50%) rotate(90deg);
+  -moz-transform: translateY(-50%) rotate(90deg);
+  -ms-transform: translateY(-50%) rotate(90deg);
+  -o-transform: translateY(-50%) rotate(90deg);
+  transform: translateY(-50%) rotate(90deg);
+}
+
+#cd-lateral-nav .socials {
+  padding: 0 32px;
+}
+#cd-lateral-nav .socials:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#cd-lateral-nav .socials a {
+  height: 32px;
+  width: 32px;
+  float: left;
+  padding: 0;
+  background-image: url("../img/cd-socials.svg");
+  background-repeat: no-repeat;
+  background-size: 128px 64px;
+  background-color: #FFF;
+  margin-right: .5em;
+  border-radius: 0.25em;
+}
+#cd-lateral-nav .socials a.cd-twitter {
+  background-position: 0 0;
+}
+#cd-lateral-nav .socials a.cd-github {
+  background-position: -32px 0;
+}
+#cd-lateral-nav .socials a.cd-facebook {
+  background-position: -64px 0;
+}
+#cd-lateral-nav .socials a.cd-google {
+  background-position: -96px 0;
+}
+.no-touch #cd-lateral-nav .socials a:hover {
+  background-color: #4e6361;
+}
+.no-touch #cd-lateral-nav .socials a:hover.cd-twitter {
+  background-position: 0 -32px;
+}
+.no-touch #cd-lateral-nav .socials a:hover.cd-github {
+  background-position: -32px -32px;
+}
+.no-touch #cd-lateral-nav .socials a:hover.cd-facebook {
+  background-position: -64px -32px;
+}
+.no-touch #cd-lateral-nav .socials a:hover.cd-google {
+  background-position: -96px -32px;
+}

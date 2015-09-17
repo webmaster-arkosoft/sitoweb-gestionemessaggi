@@ -1,0 +1,130 @@
+/*css finestra per il carrello*/
+.box-carrello{height: 555px !important;}
+.container-carrello {height: 555px !important;}
+
+/*css pagina origianle di apertura effetto 15*/
+.md-modal {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 100%;
+	max-width: 850px;
+	height: 555px;
+	z-index: 2000;
+	visibility: hidden;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.md-show {
+	visibility: visible;
+}
+
+.md-overlay {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	visibility: hidden;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	opacity: 0;
+	background: rgba(14, 5, 4, 0.72);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.md-show ~ .md-overlay {
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Content styles */
+.md-content {
+	height: 400px;
+	color: #000;
+	background: #ffffff;
+	position: relative;
+	margin: 0 auto;
+}
+
+.md-content > div {
+	padding: 10px;
+	margin: 0;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+.md-content > div p {
+	margin: 0;
+	padding: 15px 0;
+	text-align: center;
+}
+
+/* Effect 15:  3D Rotate in from left */
+.md-effect-15.md-modal {
+	-webkit-perspective: 1300px;
+	-moz-perspective: 1300px;
+	perspective: 1300px;
+}
+
+.md-effect-15 .md-content {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-transform: translateZ(100px) translateX(-30%) rotateY(90deg);
+	-moz-transform: translateZ(100px) translateX(-30%) rotateY(90deg);
+	-ms-transform: translateZ(100px) translateX(-30%) rotateY(90deg);
+	transform: translateZ(100px) translateX(-30%) rotateY(90deg);
+	-webkit-transform-origin: 0 100%;
+	-moz-transform-origin: 0 100%;
+	transform-origin: 0 100%;
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.md-show.md-effect-15 .md-content {
+	-webkit-transform: translateZ(0px) translateX(0%) rotateY(0deg);
+	-moz-transform: translateZ(0px) translateX(0%) rotateY(0deg);
+	-ms-transform: translateZ(0px) translateX(0%) rotateY(0deg);
+	transform: translateZ(0px) translateX(0%) rotateY(0deg);
+	opacity: 1;
+}
+
+#buffer_carrello { padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello1 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello2 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello3 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello4 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello5 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello6 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello7 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello8 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello9 {	padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello10 { padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello11 { padding: 0px; background-image: url("../images/background-dark.png");}
+#buffer_carrello12 { padding: 0px; background-image: url("../images/background-dark.png");}
+
+#caricamento {
+	width: 830px;
+	height: 370px;
+	color: #000000;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	background-image: url("../images/background-dark.png");
+}
+#caricamento p{
+	margin: 0px;
+	padding-top: 170px;
+	font-size: 30px;
+	font-family: 'Open Sans Condensed', sans-serif, Arial, Time new Roman, Verdana;
+}
