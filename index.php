@@ -151,7 +151,7 @@
 				<div class="header-body">
 					<div class="img-gm">
 						<h2>
-							<img src="images/perche-gm.png" alt="" width="89" height="70">
+							<img src="images/perche-gm.png" alt="" width="65" height="51">
 							<span>PERCH&Egrave; UTLIZZARE GESTIONE MESSAGGI?</span>
 						</h2>
 					</div>
@@ -199,7 +199,7 @@
 				<div class="header-clienti">
 					<div class="img-clienti">
 						<h2>
-							<img src="images/clienti.png" alt="" width="75" height="70">
+							<img src="images/clienti.png" alt="" width="52" height="49">
 							<span>I CLIENTI CHE UTLIZZANO GESTIONE MESSAGGI</span>
 						</h2>
 					</div>
@@ -259,7 +259,7 @@
 				<div class="header-scarica">
 					<div class="img-scarica">
 						<h2>
-							<img src="images/download.jpg" alt="" width="104" height="70">
+							<img src="images/download.jpg" alt="" width="75" height="50">
 							<span>SCARICA LA VERSIONE DEMO DI GESTIONE MESSAGGI</span>
 						</h2>
 					</div>
@@ -314,8 +314,10 @@
 			<div class="licenza">
 				<div class="header-licenza">
 					<div class="img-acquista">
-						<img src="images/cestino.png" alt="">
-						<h2>ACQUISTA LA LICENZA</h2>
+						<h2>
+							<img src="images/cestino.png" alt="" width="52" height="51">
+							<span>ACQUISTA LA LICENZA</span>
+						</h2>
 					</div>
 				</div>
 				<div class="descrizione-licenza">
@@ -357,8 +359,10 @@
 			<div class="box-crediti">
 				<div class="header-crediti">
 					<div class="img-crediti">
-						<img src="images/acquistacrediti.png" alt="">
-						<h2>ACQUISTA GLI SMS</h2>
+						<h2>
+							<img src="images/acquistacrediti.png" alt="" width="65" height="49">
+							<span>ACQUISTA GLI SMS</span>
+						</h2>
 					</div>
 				</div>
 				<div class="descrizione-crediti">
@@ -589,18 +593,22 @@
 			<div class="box-guida">
 				<div class="header-guida">
 					<div class="img-guida">
-						<img src="images/libro.png" alt="">
-						<h2>GUIDA</h2>
+						<h2>
+							<img src="images/libro.png" alt="" width="62" height="49">
+							<span>GUIDA</span>
+						</h2>
 					</div>
 				</div>
 				<div class="contenuto-guida">
-					<p>Con la nostra guida all'uso di Gestione Messaggi, potrete trovare rapidamente
-						tutte le informazioni che vi servono per utilizzare al meglio il nostro
-						software per la pubblicit&agrave; via SMS.
-					</p>
-					<p>Scaricalo in un comodo file in formato PDF o consulta la guida sul
-						sito <a href="http://www.gestionemessaggi.com/">www.gestionemessaggi.com</a>
-					</p>
+					<div class="descrizione-guida">
+						<p>Con la nostra guida all'uso di Gestione Messaggi, potrete trovare rapidamente
+							tutte le informazioni che vi servono per utilizzare al meglio il nostro
+							software per la pubblicit&agrave; via SMS.
+						</p>
+						<p>Scaricalo in un comodo file in formato PDF o consulta la guida sul
+							sito <a href="http://www.gestionemessaggi.com/">www.gestionemessaggi.com</a>
+						</p>
+					</div>
 					<div class="libreria">
 						<img src="images/libreria.png" alt="">
 					</div>
@@ -660,7 +668,7 @@
 							<p>Fax: 0831-1815236</p>
 						</div>
 						<div id="logo-azienda">
-							<img src="images/arkosoft-logo.png" alt="ARKOSOFT S.N.C.">
+							<img src="images/arkosoft-logo.jpg" alt="ARKOSOFT S.N.C.">
 						</div>
 					</div>
 				
