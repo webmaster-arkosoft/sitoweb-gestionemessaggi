@@ -303,9 +303,9 @@ Main components
   display: block;
 }
 @media only screen and (max-width: 1000px) {
-  #cd-logo {
-    margin: 22px 0 0 30px;
-  }
+	#cd-logo {
+		float:none;
+	}
 }
 
 #cd-top-nav {
@@ -328,6 +328,11 @@ Main components
 	padding-left:30px;
 	text-align:center;
 	float:left;
+}
+@media only screen and (max-width: 1000px) {
+	#cd-top-nav ul {
+		display:none;
+	}
 }
 /*#cd-top-nav a {
   display: inline-block;
