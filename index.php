@@ -11,8 +11,8 @@
 		<link href="stylesheets/ie.css" rel="stylesheet" type="text/css">
 		<link href="stylesheets/component.css" rel="stylesheet" type="text/css">
 		
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Montserrat' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 		
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
 		<script src="js/funzioni.js"></script>

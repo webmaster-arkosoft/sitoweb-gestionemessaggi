@@ -1,10 +1,35 @@
-body{background-color:#fff;font-family:'Open Sans Condensed','Montserrat',sans-serif,Arial,Time new Roman,Verdana;font-size:15px;font-size:14px\0/;border:0;margin:0;}
+body{background-color:#fff;font-family: 'Ubuntu', sans-serif, 'Roboto', sans-serif;font-size:14px;font-size:14px\0/;border:0;margin:0;}
 a{text-decoration:none;color:#000;border:0;}
 a:hover{text-decoration:none;color:#fff;border:0;}
-h1{font-size:33px;}
-h2{font-size:20px;}
-h3{font-size:18px;margin:20px 0;}
-h5{font-size:15px;}
+h1{
+	font-family:'Ubuntu', sans-serif;
+	font-size:35px;
+	font-weight:500;
+	font-style:normal;
+	line-height:27px;
+}
+h2{
+	font-family:'Ubuntu', sans-serif;
+	font-size:25px;
+	font-weight:500;
+	font-style:normal;
+	line-height:27px;
+	letter-spacing:-1px;
+}
+h3{
+	font-family:'Ubuntu', sans-serif;
+	font-size:20px;
+	font-weight:500;
+	font-style:normal;
+	line-height:27px;
+}
+h5{
+	font-family:'Ubuntu', sans-serif;
+	font-size:15px;
+	font-weight:500;
+	font-style:normal;
+	line-height:27px;
+}
 a img{text-decoration:none;border:none;}
 .mex1 button:hover{background-color:#E73333;}
 .acquista button:hover{background-color:#E73333;}
@@ -18,7 +43,7 @@ a img{text-decoration:none;border:none;}
 .menu-header{width:100%;max-width:1024px;margin:0 auto;}
 .mex1{width:100%;height:100%;top:0;left:0;overflow:hidden;position:relative;}
 .img-fondo-mex1{height:100%;width:100%;max-width:1024px;margin:0px auto;position:relative;top:0;left:0;overflow:hidden;background:#ffffff url("../images/mappaetablet.jpg") no-repeat center bottom /cover;}
-.mex1 h1{text-align:center;margin-top:50px;color:#ff0000;}
+.mex1 h1{text-align:center;margin-top:60px;color:#ff0000;}
 .mex1 h2{text-align:center;margin-top:10px;color:#000;}
 a#leadpages-close-button{z-index:1;top:-9px;right:-9px;font-family:sans-serif,Arial,Time new Roman,Verdana;}
 #leadpages-close-button{display:block;font-size:16pt;position:absolute;top:-9pt;right:-9pt;width:18pt;height:18pt;color:#FFF;line-height:20pt;text-align:center;text-decoration:none;vertical-align:baseline;cursor:pointer;background:none repeat scroll 0 0 #000;border:2pt solid #FFF;border-radius:18pt;}
@@ -43,8 +68,8 @@ a#leadpages-close-button{z-index:1;top:-9px;right:-9px;font-family:sans-serif,Ar
 .colore-fondo-body{width:100%;height:100%;top:0px;left:0px;position:relative;overflow:hidden;background:#ffbf2e;}
 .header-body{width:100%;height:80px;font-family:'Montserrat',sans-serif;background-color:#29917e;}
 .img-gm{width:100%;max-width:1024px;height:80px;margin:0 auto;}
-.img-gm img{margin:-15px 0px 0px 0px;float:left;}
-.header-body h2{width:70%;font-size:25px;margin:0 auto;padding:26px 0px 0px 0px;text-align:center;color:#fff;}
+.img-gm img{margin:-15px 0px 0px 0px;}
+.header-body h2{width:100%;font-size:25px;margin:0 auto;padding:26px 0px 0px 0px;text-align:center;color:#fff;}
 .container-body{width:100%;max-width:1024px;height:100%;margin:0 auto;background:url("../images/body.jpg") no-repeat center bottom;}
 .container-body h2{margin:50px 20px 0px 20px;}
 .container-body h3{margin:20px 20px 0px 20px;}
@@ -321,7 +346,11 @@ Main components
 	margin:30px 0 0 0;
 	list-style:none;
 	float:left;
-	font-size:18px;
+	font-family:'Ubuntu', sans-serif;
+	font-size:14px;
+	font-weight:500;
+	font-style:normal;
+	line-height:19px;
 }
 #cd-top-nav li {
 	width:140px;
@@ -571,4 +600,42 @@ Main components
 }
 .no-touch #cd-lateral-nav .socials a:hover.cd-google {
   background-position: -96px -32px;
+}
+@media only screen and (max-width: 700px) {
+	/* MEX INIZIALE CON SFONDO TABLET */
+	.img-fondo-mex1{
+		background:none;
+	}
+	.style-bottom1{
+		width:100%;
+		height:auto;
+		text-align:center;
+		margin-top:15px;
+	}
+	.mex1 .bottone{
+		float:none;
+		left:0;
+		top:0;
+	}
+	.style-bottom{
+		width:100%;
+		height:auto;
+		text-align:center;
+		margin-top:15px;
+	}
+	.bottone-acquista{
+		float:none;
+		left:0;
+		top:0;
+	}
+	/* PERCHè GESTIONE MESSAGGI */
+	.header-body{
+		height:auto;
+	}
+	.img-gm{
+		height:auto;
+	}
+	.header-body h2{
+		width:100%;
+	}
 }
