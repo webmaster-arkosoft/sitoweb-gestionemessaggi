@@ -1,0 +1,27 @@
+RewriteEngine on
+ 
+
+
+
+
+
+RewriteBase /
+RewriteRule ^(.*)\.html$ $1.php [L]
+ 
+
+
+rewritecond %{http_host} ^gestionemessaggi.com [nc]
+rewriterule ^(.*)$ http://www.gestionemessaggi.com/$1 [r=301]
+
+ 
+
+
+
+Redirect 301 /galleria.html  /galleria-sms-marketing.html
+Redirect 301 /inostriclienti.html  /inostriclienti-di-sms-marketing.html
+Redirect 301 /contattaci.html /contattaci-per-sms-marketing.html
+Redirect 301 /download.html /scarica-il-software-per-sms-marketing.html
+Redirect 301 /supporto.html /sms-marketing/index.html
+
+
+ErrorDocument 404 http://www.gestionemessaggi.com/error404.html

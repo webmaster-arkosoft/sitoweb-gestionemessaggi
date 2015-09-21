@@ -1,0 +1,1 @@
+<?php $assistenza='disattivo'; ?>

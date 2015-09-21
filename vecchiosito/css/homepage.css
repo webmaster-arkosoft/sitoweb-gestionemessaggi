@@ -1,0 +1,59 @@
+body{background-color:inherit;color:#232323;font-family: 'Open Sans',Helvetica,sans-serif;font-size:12px;margin:0;padding:0;background:#fff url("../immagini/sfondo.jpg") repeat-x;}
+.generale{position:absolute;left:50%;margin-left:-497px;}
+.sopra{background:url("../immagini/bg-topline.png") repeat-x scroll 0 0 transparent;margin:0;padding:0;height:86px;}
+.boxsopra{padding:0;width:995px;height:86px;}
+.logo{float:left;width:425px;height:70px;padding-top:13px;padding-left:30px;}
+.logo img{border:0;}
+.mainsubmenu{margin:0;padding:0;width:545px;}
+.submenu{bottom:auto;clear:both;left:auto;margin:0;padding:0;position:absolute;right:20px;top:64px;width:570px;}
+.submenu-active1{background:url("../immagini/bg-submenu-td1.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.submenu-active2{background:url("../immagini/bg-submenu-td2.png") repeat-x scroll 0 0 transparent;float:left;height:31px;width:550px;}
+.linksubmenu{background-attachment:scroll;background-color:inherit;background-image:url("../immagini/bg-submenu.gif");background-position:right 8px;background-repeat:no-repeat;color:#464646;display:block;float:left;font-size:11px;font-weight:bold;margin:0;padding:6px 11px 8px 9px;text-decoration:none;}
+.linksubmenu:hover{color:#D10000;}
+.submenu-active3{background:url("../immagini/bg-submenu-td3.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.mainmenu{background:url("../immagini/bg-mainmenu.png") no-repeat scroll right 6px transparent;height:29px;margin:34 10px 0 0;padding:0 2px 0 0;width:510px;float:left;}
+.mainmenu a:hover{color:#0082C0;}
+.mainmenu-active{background:url("../immagini/bg-mainmenu.png") no-repeat scroll 0 6px transparent;height:31px;float:left;margin:0;padding:0 5px 0 6px;position:relative;}
+.mainmenu-active1{background:url("../immagini/bg-mainmenu-active-td1.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.mainmenu-active2{background:url("../immagini/bg-mainmenu-active-td2.png") repeat-x scroll 0 0 transparent;padding:4px 0 0;height:31px;float:left;}
+.mainmenu-active2 a{background-attachment:scroll;background-color:inherit;background-position:0 6px;background-repeat:no-repeat;color:#D10000;display:block;float:left;font-size:16px;font-weight:normal;margin:0;padding:8px 15px 2px 16px;text-decoration:none;}
+.mainmenu-active3{background:url("../immagini/bg-mainmenu-active-td3.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.linkmenu{background-attachment:scroll;background-color:inherit;background-image:url("../immagini/bg-mainmenu.png");background-position:0 6px;background-repeat:no-repeat;color:#232323;display:block;float:left;font-size:16px;font-weight:normal;margin:0;padding:8px 15px 2px 16px;text-decoration:none;}
+.header{background:#FFCF0F url("../immagini/header.jpg") no-repeat 50%;color:inherit;margin:0;padding:0;height:318px;width:950px;}
+.space{float:left;width:500px;height:300px;}
+.descrizioneheader{margin-top:177px;width:344px;color:#000;font-size:16px;font-weight:normal;padding-left:30px;}
+.motto{float:left;color:inherit;text-align:left;height:150px; width: 450px;}
+.motto h1{color:#FFF;font-size:18px;font-weight:normal;margin-bottom:-15px;}
+.motto p{font-size:16px;margin-top:30px;padding:0 0 10px;color:#D10000;}
+.market{text-decoration:none;color:#000000;}
+.sotto{background:url("../immagini/bg-content-1.png") repeat-x scroll 0 0 #FFFFFF;margin:0;height:70px;width:950px;}
+.bannerassistenza{float:left;width:547px;height:60px;padding-top:10px;margin-left:18px;}
+.secondaimg{float:left;height:65px;}
+.imgcell{margin-left:565px;}
+.boxmadre{width:991px;height:500px;}
+.boxs{float:left;width:500px;height:480px;}
+.aggiornamenti{border:1px solid #CCC;width:488px;height:30px;margin-bottom:20px;margin-top:20px;margin-left:8px;}
+.aggiorna{background:#fff url('../immagini/sfondoaggiorna.jpg') no-repeat;width:145px;height:25px;font-family: 'Open Sans';padding-top:5px;font-size:16px;font-weight:bold;text-align:center;float:left;}
+.testoaggiorna{font-family: 'Open Sans';padding-top:7px;font-size:14px;width:300px;height:25px;padding-left:10px;color:#666;text-align:left;float:left;}
+.divaggiornamenti{width:470px;height:100px;float:left;text-align:justify;padding-left:15px;font-family: 'Open Sans';font-size:13px;background:#fff url('../immagini/linea.jpg') no-repeat;}
+.divaggiornamenti1{width:470px;height:110px;float:left;text-align:justify;padding-left:15px;font-family: 'Open Sans';font-size:13px;background:#fff url('../immagini/linea1.jpg') no-repeat;}
+.divaggiornamenti2{width:470px;height:100px;float:left;padding-left:15px;font-family: 'Open Sans';font-size:13px;background:#fff url('../immagini/linea2.jpg') no-repeat;}
+.divaggiornamenti3{width:470px;height:100px;float:left;padding-left:15px;font-family: 'Open Sans';font-size:13px;background:#fff url('../immagini/linea3.jpg') no-repeat;}
+.titoloaggiorna{padding-top:10px;padding-bottom:5px;font-family: 'Open Sans';font-size:16px;font-weight:bold;width:400px;height:20px;}
+.boxd{width:489px;height:480px;float:left;background:#fff url('../immagini/sfondo_puntiforza.jpg') no-repeat;}
+.puntiforza{width:490px;height:30px;padding-top:8px;padding-left:10px;}
+.domandapuntiforza{width:445px;height:120px;padding-top:30px;padding-left:10px;font-size:16px;font-family: 'Open Sans';font-weight:bold;float:left;}
+span.evidenzio{background-color:#ff8;}
+.rispostapuntiforza{width:445px;height:200px;padding-left:20px;font-family: 'Open Sans';font-size:13px;text-align:justify;}
+.linkpuntiforza{margin-left:270px;margin-top:7px;}
+.linkpuntiforza a{color:#000;}
+.linkpuntiforza1{float:left;height:30px;padding-right:5px;}
+.linkpuntiforza2{float:left;height:30px;}
+.copyright{width:991px;font-size:14px;font-family: 'Open Sans';color:#666;padding-top:10px;padding-bottom:20px;height:130px;}
+.copyright a{font-size:14px;font-family: 'Open Sans';color:#666;text-decoration:none;}
+.copyright a:hover{text-decoration:underline;}
+.logocopyright{float:left;width:670px;}
+.arkocopyright{padding-left:10px;}
+.piva{float:left;text-align:right;font-size:12px;font-family: 'Open Sans';}
+.piva a{font-size:12px;font-family: 'Open Sans';color:#666;text-decoration:none;}
+.piva a:hover{text-decoration:underline;}

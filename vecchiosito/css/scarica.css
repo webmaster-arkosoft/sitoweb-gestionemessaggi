@@ -1,0 +1,43 @@
+body{background-color:inherit;color:#232323;font-family: 'Open Sans',Helvetica,sans-serif;font-size:12px;margin:0;padding:0;background:#fff url("../immagini/sfondo.jpg") repeat-x;}
+.generale{position:absolute;left:50%;margin-left:-497px;}
+.sopra{background:url("../immagini/bg-topline.png") repeat-x scroll 0 0 transparent;margin:0;padding:0;height:86px;}
+.boxsopra{padding:0;width:995px;height:86px;}
+.logo{float:left;width:425px;height:70px;padding-top:13px;padding-left:30px;}
+.logo img{border:0;}
+.mainsubmenu{margin:0;padding:0;width:545px;}
+.submenu{bottom:auto;clear:both;left:auto;margin:0;padding:0;position:absolute;right:20px;top:64px;width:570px;}
+.submenu-active1{background:url("../immagini/bg-submenu-td1.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.submenu-active2{background:url("../immagini/bg-submenu-td2.png") repeat-x scroll 0 0 transparent;float:left;height:31px;width:550px;}
+.submenu-active3{background:url("../immagini/bg-submenu-td3.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.subattivo1{background-position:right 8px;background-repeat:no-repeat;color:#D10000;display:block;float:left;font-size:11px;font-weight:bold;margin:0;padding:6px 11px 8px 9px;text-decoration:none;}
+.mainmenu{background:url("../immagini/bg-mainmenu.png") no-repeat scroll right 6px transparent;height:29px;margin:34 10px 0 0;padding:0 2px 0 0;width:510px;float:left;}
+.mainmenu a:hover{color:#0082C0;}
+.linkmenu{background-attachment:scroll;background-color:inherit;background-image:url("../immagini/bg-mainmenu.png");background-position:0 6px;background-repeat:no-repeat;color:#232323;display:block;float:left;font-size:16px;font-weight:normal;margin:0;padding:8px 15px 2px 16px;text-decoration:none;}
+.mainmenu-active{background:url("../immagini/bg-mainmenu.png") no-repeat scroll 0 6px transparent;height:31px;float:left;margin:0;padding:0 5px 0 6px;position:relative;}
+.mainmenu-active1{background:url("../immagini/bg-mainmenu-active-td1.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.mainmenu-active2{background:url("../immagini/bg-mainmenu-active-td2.png") repeat-x scroll 0 0 transparent;padding:4px 0 0;height:31px;float:left;}
+.mainmenu-active2 a{background-attachment:scroll;background-color:inherit;background-position:0 6px;background-repeat:no-repeat;color:#D10000;display:block;float:left;font-size:16px;font-weight:normal;margin:0;padding:8px 15px 2px 16px;text-decoration:none;}
+.mainmenu-active3{background:url("../immagini/bg-mainmenu-active-td3.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.header3{background:#FFCF0F url("../immagini/header3.jpg") no-repeat 50%;color:inherit;margin:0;padding:0;height:318px;width:950px;}
+.descmottoo{width:336px;height:200px;margin-left:50px;padding-top:10px;float:left;}
+.descmottoo h4{font-size:18px;}
+.descmottoo div{font-size:14px;}
+.descmottoo a{font-weight:bold;color:#000;}
+.market{text-decoration:none;color:#000000;}
+.nosott{text-decoration:none;cursor:hand;}
+.sotto{background:url("../immagini/bg-content-1.png") repeat-x scroll 0 0 #FFFFFF;margin:0;height:70px;width:950px;}
+.divdownload{width:980px;height:320px;}
+.boxsinistra{float:left;width:700px;}
+.divinter{width:210px;height:200px;margin-left:50px;float:left;}
+.titolodownload1{font-size:16px;margin-left:50px;margin-bottom:10px;color:#168EF4;font-size:28px;font-family: 'Open Sans';text-decoration:none;}
+.divdesc{width:400px;height:200px;padding-top:20px;float:left;font-family: 'Open Sans';font-size:15px;}
+.boxdestra{float:left;width:250px;height:100px;}
+.login1{background:url("../immagini/login1.jpg") no-repeat;width:270px;height:250px;padding-top:100px;padding-left:30px;}
+.copyright{width:991px;font-size:14px;font-family: 'Open Sans';color:#666;padding-top:10px;padding-bottom:20px;height:130px;}
+.copyright a{font-size:14px;font-family: 'Open Sans';color:#666;text-decoration:none;}
+.copyright a:hover{text-decoration:underline;}
+.piva{float:left;text-align:right;font-size:12px;font-family: 'Open Sans';}
+.piva a{font-size:12px;font-family: 'Open Sans';color:#666;text-decoration:none;}
+.piva a:hover{text-decoration:underline;}
+.logocopyright{float:left;width:670px;}
+.arkocopyright{padding-left:10px;}

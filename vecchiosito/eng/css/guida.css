@@ -1,0 +1,61 @@
+.bodygalleria{background-color:inherit;color:#232323;font-family:Arial,Helvetica,sans-serif;font-size:12px;margin:0;padding:0;background:#fff url("../immagini/sfondo1.jpg") repeat-x;}
+.generale{position:absolute;left:50%;margin-left:-497px;}
+.sopra{background:url("../immagini/bg-topline.png") repeat-x scroll 0 0 transparent;margin:0;padding:0;height:86px;}
+.boxsopra{padding:0;width:995px;height:86px;}
+.logo{float:left;width:425px;height:70px;padding-top:13px;padding-left:30px;}
+.logo img{border:0;}
+.mainsubmenu{margin:0;padding:0;width:545px;}
+.submenu{bottom:auto;clear:both;left:auto;margin:0;padding:0;position:absolute;right:20px;top:64px;width:570px;}
+.submenu-active1{background:url("../immagini/bg-submenu-td1.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.submenu-active2{background:url("../immagini/bg-submenu-td2.png") repeat-x scroll 0 0 transparent;float:left;height:31px;width:550px;}
+.submenu-active3{background:url("../immagini/bg-submenu-td3.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.linksubmenu{background-attachment:scroll;background-color:inherit;background-image:url("../immagini/bg-submenu.gif");background-position:right 8px;background-repeat:no-repeat;color:#464646;display:block;float:left;font-size:11px;font-weight:bold;margin:0;padding:6px 11px 8px 9px;text-decoration:none;}
+.linksubmenu:hover{color:#D10000;}
+.subattivo{background-attachment:scroll;background-color:inherit;background-image:url("../immagini/bg-submenu.gif");background-position:right 8px;background-repeat:no-repeat;color:#D10000;display:block;float:left;font-size:11px;font-weight:bold;margin:0;padding:6px 11px 8px 9px;text-decoration:none;}
+.mainmenu{background:url("../immagini/bg-mainmenu.png") no-repeat scroll right 6px transparent;height:29px;margin:34 10px 0 0;padding:0 2px 0 0;width:460px;float:left;}
+.mainmenu a:hover{color:#0082C0;}
+.linkmenu{background-attachment:scroll;background-color:inherit;background-image:url("../immagini/bg-mainmenu.png");background-position:0 6px;background-repeat:no-repeat;color:#232323;display:block;float:left;font-size:16px;font-weight:normal;margin:0;padding:8px 15px 2px 16px;text-decoration:none;}
+.mainmenu-active{background:url("../immagini/bg-mainmenu.png") no-repeat scroll 0 6px transparent;height:31px;float:left;margin:0;padding:0 5px 0 6px;position:relative;}
+.mainmenu-active1{background:url("../immagini/bg-mainmenu-active-td1.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.mainmenu-active2{background:url("../immagini/bg-mainmenu-active-td2.png") repeat-x scroll 0 0 transparent;padding:4px 0 0;height:31px;float:left;}
+.mainmenu-active2 a{background-attachment:scroll;background-color:inherit;background-position:0 6px;background-repeat:no-repeat;color:#D10000;display:block;float:left;font-size:16px;font-weight:normal;margin:0;padding:8px 15px 2px 16px;text-decoration:none;}
+.mainmenu-active3{background:url("../immagini/bg-mainmenu-active-td3.png") no-repeat scroll 0 0 transparent;width:10px;height:31px;float:left;}
+.header10{background:#FFCF0F url("../immagini/header10.jpg") no-repeat 50%;color:inherit;margin:0;padding:0;height:250px;width:950px;}
+.descmotto{width:336px;height:200px;margin-left:50px;padding-top:50px;}
+.descmotto h4{font-size:18px;}
+.descmotto a{font-weight:bold;color:#000;}
+.sotto1{background:url("../immagini/bg-content-1.png") repeat-x scroll 0 0 #FFFFFF;margin:0;height:25px;width:950px;}
+.boxmadre{width:991px;height:500px;}
+.boxassistenza1{float:left;width:650px;height:480px;padding-left:50px;}
+.indiceguida{border:1px solid #000000;width:500px;height:455px;}
+#indice{float:left;border-bottom:1px solid #000000;font-size:18px;font-weight:bold;width:495px;*width:500px;padding-left:5px;}
+.voceguida{float:left;width:500px;font-family:Arial;font-size:16px;padding-left:15px;padding-top:5px;}
+.voceguida a{color:#003E66;text-decoration:none;}
+.voceguida a:hover{padding-left:20px;}
+.logoarkosoft{width:240px;height:480px;float:left;}
+.logoarkosoft img{margin-top:0px;border:0;}
+.imgvendite{float:left;}
+.vendite{font-size:12px;font-family:Arial;color:#000000;padding-top:30px;float:left;}
+.vendite h1{font-size:18px;font-family:Arial;color:#000000;}
+.vendite a{font-weight:bold;font-size:18px;color:#1F6ACF;text-decoration:none;}
+.vendite a:hover{text-decoration:underline;}
+.login{background:url("../immagini/login.jpg") no-repeat;width:270px;height:200px;padding-top:50px;padding-left:25px;}
+.campilogin input{width:219px;}
+.bottonelogin{margin-top:5px;margin-left:160px;}
+#descrizioneguida{padding-top:20px;width:991px;height:auto !important;position:relative;}
+#descrizioneguida h1{padding-left:50px;padding-bottom:15px;font-family:Arial;font-size:20px;}
+#descrizioneguida ul{padding-left:90px;font-family:Arial;font-size:16px;list-style-type:decimal;}
+#descrizioneguida li{font-weight:bold;padding-bottom:5px;padding-top:5px;font-family:Arial;font-size:16px;}
+.description{font-weight:normal;font-size:16px;font-family:Arial;}
+#descrizioneguida h2{padding-left:50px;padding-bottom:5px;font-family:Arial;font-size:18px;}
+#descrizioneguida a{font-size:16px;color:#000000;text-decoration:none;}
+#descrizioneguida p{padding-left:50px;padding-bottom:5px;padding-right:50px;font-size:16px;}
+.centra{margin-left:150px;}
+.copyright{width:991px;font-size:14px;font-family:Arial;color:#666;padding-top:10px;padding-bottom:20px;height:130px;}
+.copyright a{font-size:14px;font-family:Arial;color:#666;text-decoration:none;}
+.copyright a:hover{text-decoration:underline;}
+.piva{float:left;text-align:right;font-size:12px;font-family:Arial;}
+.piva a{font-size:12px;font-family:Arial;color:#666;text-decoration:none;}
+.piva a:hover{text-decoration:underline;}
+.logocopyright{float:left;width:685px;}
+.arkocopyright{padding-left:10px;}

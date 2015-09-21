@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+
+# Does anyone care I love Google Apache htaccess
+Sitemap: http://www.gestionemessaggi.com/sitemap.xml
