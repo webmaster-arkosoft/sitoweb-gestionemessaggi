@@ -25,6 +25,7 @@
 			$mail->From = "info@gestionemessaggi.com";
 			$mail->FromName = "info@gestionemessaggi.com";
 			$mail->AddAddress("info@arkosoft.it");
+			$mail->AddAddress("vendite@arkosoft.it");
 			$mail->Subject="Nuovo utente per Gestione Messaggi";
 			$html='La seguente Email: '.$_POST["email"].' ha scaricato gestionemessaggi.';
 			$mail->Body=$html;
